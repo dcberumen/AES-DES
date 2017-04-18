@@ -15,8 +15,8 @@ Your README file should include:
     keyDES: <string><16> "0123456789abcdef"
     keyAES: <string><17> "00123456789abcdef"  first byte should be 0(enc) or 1(dec)
     enc/dec: ENC or DEC
-    in: a text file to read from ex: in.txt
-    out: a text file to write to ex: out.txt
+   
+    example in run.sh
 
 – Whether you implemented the extra credit.
     extra credit: No
