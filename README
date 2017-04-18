@@ -1,0 +1,24 @@
+To compile, simply, type ''make'' at the terminal (without the quotes).
+
+
+Your README file should include:
+
+– Names and email addresses of all partners.
+    Daniel Berumen - dcberumen@csu.fullerton.edu
+
+– The programming language you use (e.g. C++ or Java)
+    language: C++
+
+– How to execute your program.
+    ./cipher <cipher name> <key> <enc/dec> <in.txt> <out.txt>
+    cipher name: AES or DES
+    keyDES: <string><16> "0123456789abcdef"
+    keyAES: <string><17> "00123456789abcdef"  first byte should be 0(enc) or 1(dec)
+    enc/dec: ENC or DEC
+    in: a text file to read from ex: in.txt
+    out: a text file to write to ex: out.txt
+
+– Whether you implemented the extra credit.
+    extra credit: No
+
+– Anything special about your submission that we should take note of.
