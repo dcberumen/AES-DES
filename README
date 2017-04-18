@@ -3,9 +3,6 @@ To compile, simply, type ''make'' at the terminal (without the quotes).
 
 Your README file should include:
 
-– Names and email addresses of all partners.
-    Daniel Berumen - dcberumen@csu.fullerton.edu
-
 – The programming language you use (e.g. C++ or Java)
     language: C++
 
